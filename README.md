@@ -2,6 +2,8 @@
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-ayushraj05)](https://github.com/iam-ayushraj05/github-readme-stats)
 
+[![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
+
 <!--
 **iam-ayushraj05/iam-ayushraj05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
