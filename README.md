@@ -27,24 +27,24 @@
 - 👨‍💻 All of my projects are available at [Na](Na)
 - 📫 How to reach me **offayushraj1006@gmail.com**
 
-<br clear="all"> 
+<br clear="all"> 
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/im_ayushraj05" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="70" />
-  </a>
-  <a href="https://discord.gg/iam_ayushraj05" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="70" />
-  </a>
-  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="70" />
-  </a>
-  <a href="https://twitter.com/iam_ayushraj05" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter/X" height="70" />
-  </a>
+  <a href="https://instagram.com/im_ayushraj05" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="70" />
+  </a>
+  <a href="https://discord.gg/iam_ayushraj05" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" height="70" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="70" />
+  </a>
+  <a href="https://twitter.com/iam_ayushraj05" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter/X" height="70" />
+  </a>
 </p>
 <br />
 
@@ -57,18 +57,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="40" alt="React" title="React" />
+t <img width="12" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwNjc5MzMsIm5iZiI6MTc2MjA2NzYzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAyVDA3MTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjYjc3ZTFmMTgxZWY5ZDkzZTI5YjIzYWMzMzUxMjFmYjU2ZGIzMGUxMTQ3ODNiZGQ4M2YyMGVhNDRhNTA3YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S28eAo7fpfXd4VKigoSQ7hrnSN5Yd14PuYAdA6VdqAw" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwNjc5MzMsIm5iZiI6MTc2MjA2NzYzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAyVDA3MTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNzgzMTY0NTY3M2Q2Mzc0ZWViYTQ4MjU5NDlkZmIzMDU3ODExYWY2Yzg5ODZjNDkwNDc5MmNmOTRmOGVmNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qHXHIiXu-t7il8iSHCBvlm-aNXIyj5UWb64mr06COBg" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwNjc5MzMsIm5iZiI6MTc2MjA2NzYzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAyVDA3MTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMjY5ZGYyMDAwN2E1Mjk2OTAyYjBmZjVkZGVhNTNiMzQ0M2NhOWIyNWNmMjRhY2JjNWVkOWNhYzI0Mjk2NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.J-dZvxF_yLaXXaIH5HfbizfRrFFiec_A6JAdz3qoOyw" height="40" alt="Express" title="Express" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" height="40" alt="Express" title="Express" />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwNjc5MzMsIm5iZiI6MTc2MjA2NzYzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAyVDA3MTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhNmI0OTE4OGNlNThjNmIzMWEwYThlNDk5NzQ5ODhlY2Y2ZGJiOGVhNmMxMjkxOGU2NjFhOWVmOGUxOGUyZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EOKVRk9mz44MfwQ5_SGi7XPdhaIrbzV4d3fv38GxpS8" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" height="40" alt="MongoDB" title="MongoDB" />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="40" alt="Python" title="Python" />
   <img width="12" />
@@ -90,6 +90,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app?username=iam-ayushraj05&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
+</p>
 
 <h3 align="left">Daily Contribution Activity:</h3>
 
@@ -99,8 +102,5 @@
   </a>
 </p>
 <p>
- 
-  [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
+  [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iam-ayushraj05)](https://holopin.io/@iamayushraj05)
 </p>
-
-
