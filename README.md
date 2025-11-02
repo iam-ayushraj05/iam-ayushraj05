@@ -110,5 +110,5 @@
 </p>
 
 <p>
-  [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iam-ayushraj05)](https://holopin.io/@iam-ayushraj05)
+ [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
 </p>
