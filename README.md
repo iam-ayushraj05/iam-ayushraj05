@@ -98,4 +98,8 @@
       <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
-[![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
+<p>
+  [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
+</p>
+
+
