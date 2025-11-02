@@ -33,18 +33,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/im_ayushraj05" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram logo" height="60" width="60" />
-  </a>
-  <a href="https://discord.gg/SGw7pDTu" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
-  </a>
-  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn logo" height="60" width="60" />
-  </a>
-  <a href="https://twitter.com/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
-  </a>
+  <a href="https://instagram.com/im_ayushraj05" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://discord.gg/iam_ayushraj05" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/iam_ayushraj05" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="Twitter/X" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/iam_ayushraj05" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="40" width="40" />
+  </a>
 </p>
 <br />
 
