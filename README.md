@@ -10,7 +10,7 @@
 </table>
 
 
-https://github.com/user-attachments/assets/5866d3bc-66fb-47e3-a234-80ce072752d7
+
 
 
 <p align="left"> 
@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/5866d3bc-66fb-47e3-a234-80ce072752d7
 <p align="left"> 
   <a href="https://twitter.com/iam_ayushraj05" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" /></a> 
 </p>
+![ezgif-72efe03c86e139](https://github.com/user-attachments/assets/87d5f312-a15c-418b-b7ff-4d1a8527fa2f)
 
 ---
 
