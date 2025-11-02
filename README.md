@@ -99,7 +99,7 @@
   </a>
 </p>
 <p>
-  [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
+  [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](httpss://holopin.me/iamayushraj05)](httpss://holopin.io/@iamayushraj05)
 </p>
 
 
