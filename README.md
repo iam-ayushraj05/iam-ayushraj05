@@ -1,7 +1,7 @@
 ## I'm Ayush raj
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-ayushraj05)](https://github.com/iam-ayushraj05/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ayushraaj05&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ayushraj05&layout=compact)
 
 [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
 
