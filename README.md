@@ -1,57 +1,53 @@
 <table width="100%">
-  <tr>
-    <td align="left">
-      <h1 style="display: inline-block;">Hi 👋, I'm</h1>
-    </td>
-    <td align="right">
-      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=00FFFF&background=1E27DC00&random=false&width=435&lines=Ayush+Raj;Full+Stack+Developer" alt="Typing SVG" />
-    </td>
-  </tr>
+  <tr>
+    <td align="left">
+      <h1 style="display: inline-block;">Hi 👋, I'm</h1>
+    </td>
+    <td align="right">
+      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=00FFFF&background=1E27DC00&random=false&width=435&lines=Ayush+Raj;Full+Stack+Developer" alt="Typing SVG" />
+    </td>
+  </tr>
 </table>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" /> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/iam_ayushraj05" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" /></a> 
-</p>
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/87d5f312-a15c-418b-b7ff-4d1a8527fa2f" alt="Animated Profile Accent" style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%; display: inline-block;" />
+<p align="left"> 
+  <a href="https://twitter.com/iam_ayushraj05" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" /></a> 
 </p>
 
 ---
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" align="right">
+
 - 🌱 I’m currently learning **BACKEND DEVELOPMENT**
-
 - 👯 I’m looking to collaborate on **OPEN-SOURCE PROJECTS**
-
 - 🤝 I’m looking for help with **DATA-STRUCTURE AND ALGORITHMS**
-
 - 👨‍💻 All of my projects are available at [Na](Na)
-
 - 📫 How to reach me **offayushraj1006@gmail.com**
+
+<br clear="all"> 
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/im_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294017-f57161b9-3b6d-4731-be69-02688006d691.gif" alt="Instagram logo" height="60" width="60" />
-  </a>
-  <a href="https://discord.gg/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
-  </a>
-  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294014-9989a547-59f7-4632-9b2f-2d74c0525d8f.gif" alt="LinkedIn logo" height="60" width="60" />
-  </a>
-  <a href="https://twitter.com/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
-  </a>
-  <a href="https://www.leetcode.com/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-1406c71c-30b8-4c37-88f5-19e917d848ce.gif" alt="Coding Profile logo" height="60" width="60" />
-  </a>
+  <a href="https://instagram.com/im_ayushraj05" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294017-f57161b9-3b6d-4731-be69-02688006d691.gif" alt="Instagram logo" height="60" width="60" />
+  </a>
+  <a href="https://discord.gg/iam_ayushraj05" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294014-9989a547-59f7-4632-9b2f-2d74c0525d8f.gif" alt="LinkedIn logo" height="60" width="60" />
+  </a>
+  <a href="https://twitter.com/iam_ayushraj05" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
+  </a>
+  <a href="https://www.leetcode.com/iam_ayushraj05" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-1406c71c-30b8-4c37-88f5-19e917d848ce.gif" alt="Coding Profile logo" height="60" width="60" />
+  </a>
 </p>
 <br />
 
@@ -61,31 +57,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud Platform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud Platform"/>
 </p>
 
 ---
@@ -93,15 +89,15 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="300px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="300px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
 </p>
 
 <h3 align="left">Daily Contribution Activity:</h3>
 
 <p align="center">
-  <a href="https://github.com/iam-ayushraj05">
-      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" />
-  </a>
+  <a href="https://github.com/iam-ayushraj05">
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" />
+  </a>
 </p>
