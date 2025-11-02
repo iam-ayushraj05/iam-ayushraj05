@@ -23,39 +23,49 @@
 
 ---
 
-- 🌱 I’m currently learning **BACKEND DEVELOPMENT**
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      
+      - 🌱 I’m currently learning **BACKEND DEVELOPMENT**
+      
+      - 👯 I like to collaborate on **Open-Source Projects** - 🤝 I’m looking for help with **Data Structures & Algorithms**
+      
+      - 👀 Currently learning Something :) 
+      
+      - 👨‍💻 All of my projects are available at [Na](Na)
+      
+      - 📫 How to reach me **offayushraj1006@gmail.com** (using your primary email)
 
-- 👯 I’m looking to collaborate on **OPEN-SOURCE PROJECTS**
+      <br>
 
-- 🤝 I’m looking for help with **DATA-STRUCTURE AND ALGORITHMS**
+      <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
 
-- 👨‍💻 All of my projects are available at [Na](Na)
+      <h3 align="left">Connect with me:</h3>
+      <p align="left">
+        <a href="https://instagram.com/im_ayushraj05" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/74038190/235294017-f57161b9-3b6d-4731-be69-02688006d691.gif" alt="Instagram logo" height="60" width="60" />
+        </a>
+        <a href="https://discord.gg/iam_ayushraj05" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
+        </a>
+        <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/74038190/235294014-9989a547-59f7-4632-9b2f-2d74c0525d8f.gif" alt="LinkedIn logo" height="60" width="60" />
+        </a>
+        <a href="https://twitter.com/iam_ayushraj05" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
+        </a>
+        <a href="https://www.leetcode.com/iam_ayushraj05" target="blank">
+          <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-1406c71c-30b8-4c37-88f5-19e917d848ce.gif" alt="Coding Profile logo" height="60" width="60" />
+        </a>
+      </p>
+    </td>
 
-- 📫 How to reach me **offayushraj1006@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/im_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294017-f57161b9-3b6d-4731-be69-02688006d691.gif" alt="Instagram logo" height="60" width="60" />
-  </a>
-  <a href="https://discord.gg/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
-  </a>
-  <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294014-9989a547-59f7-4632-9b2f-2d74c0525d8f.gif" alt="LinkedIn logo" height="60" width="60" />
-  </a>
-  <a href="https://twitter.com/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
-  </a>
-  <a href="https://www.leetcode.com/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-1406c71c-30b8-4c37-88f5-19e917d848ce.gif" alt="Coding Profile logo" height="60" width="60" />
-  </a>
-</p>
-<br />
-
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" /></a>
+    <td width="45%" align="right" valign="top">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
