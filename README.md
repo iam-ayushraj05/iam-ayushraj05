@@ -34,13 +34,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/im_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294017-f57161b9-3b6d-4731-be69-02688006d691.gif" alt="Instagram logo" height="60" width="60" />
+    <img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram logo" height="60" width="60" />
   </a>
   <a href="https://discord.gg/SGw7pDTu" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
   </a>
   <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294014-9989a547-59f7-4632-9b2f-2d74c0525d8f.gif" alt="LinkedIn logo" height="60" width="60" />
+    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn logo" height="60" width="60" />
   </a>
   <a href="https://twitter.com/iam_ayushraj05" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
