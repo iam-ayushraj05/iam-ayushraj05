@@ -36,7 +36,7 @@
   <a href="https://instagram.com/im_ayushraj05" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294017-f57161b9-3b6d-4731-be69-02688006d691.gif" alt="Instagram logo" height="60" width="60" />
   </a>
-  <a href="https://discord.gg/iam_ayushraj05" target="blank">
+  <a href="https://discord.gg/SGw7pDTu" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord logo" height="60" width="60" />
   </a>
   <a href="https://linkedin.com/in/ayush-raj-0b9b19311" target="blank">
@@ -44,9 +44,6 @@
   </a>
   <a href="https://twitter.com/iam_ayushraj05" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter logo" height="60" width="60" />
-  </a>
-  <a href="https://www.leetcode.com/iam_ayushraj05" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-1406c71c-30b8-4c37-88f5-19e917d848ce.gif" alt="Coding Profile logo" height="60" width="60" />
   </a>
 </p>
 <br />
