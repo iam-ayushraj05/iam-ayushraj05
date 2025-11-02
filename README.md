@@ -9,10 +9,6 @@
   </tr>
 </table>
 
-
-
-
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" /> 
 </p>
@@ -20,7 +16,10 @@
 <p align="left"> 
   <a href="https://twitter.com/iam_ayushraj05" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" /></a> 
 </p>
-![ezgif-72efe03c86e139](https://github.com/user-attachments/assets/87d5f312-a15c-418b-b7ff-4d1a8527fa2f)
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/87d5f312-a15c-418b-b7ff-4d1a8527fa2f" alt="Animated Profile Accent" style="width: 80px; height: 80px; object-fit: cover; border-radius: 50%; display: inline-block;" />
+</p>
 
 ---
 
@@ -94,12 +93,12 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Ayush's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="300px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
 </p>
 
-<h3 align="left">GitHub Activity Graph:</h3>
+<h3 align="left">Daily Contribution Activity:</h3>
 
 <p align="center">
   <a href="https://github.com/iam-ayushraj05">
