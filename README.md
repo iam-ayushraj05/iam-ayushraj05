@@ -101,10 +101,6 @@
   </a>
 </p>
 
-<h3 align="left">Pacman Contribution Graph:</h3>
-<p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iam-ayushraj05/iam-ayushraj05/output/pacman-contribution-graph-dark.svg">
-</p>
 
 <p align="center">
   [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
