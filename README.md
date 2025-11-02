@@ -64,9 +64,9 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
+  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwNjc5MzMsIm5iZiI6MTc2MjA2NzYzMywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0NDEtMWE3OTdmNDYtZWZlNC00MWU2LTllNzUtNTMwM2UxYmJjYmZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAyVDA3MTM1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlMjY5ZGYyMDAwN2E1Mjk2OTAyYjBmZjVkZGVhNTNiMzQ0M2NhOWIyNWNmMjRhY2JjNWVkOWNhYzI0Mjk2NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.J-dZvxF_yLaXXaIH5HfbizfRrFFiec_A6JAdz3qoOyw" height="40" alt="Express" title="Express" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
   <img width="12" />
@@ -98,3 +98,4 @@
       <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
+[![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
