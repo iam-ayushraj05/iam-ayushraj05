@@ -57,54 +57,47 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="60" alt="javascript logo" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="60" alt="react logo" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8af4e510-4137-4b71-8848-d3606af988e0" height="60" alt="html5 logo" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/18029094-118e-49b0-9289-537482590748" height="60" alt="css3 logo" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9b400782-b75d-4009-8473-b3c076210f78" height="60" alt="c logo" title="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60" alt="express logo" title="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" title="Express" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/232491143-690a618c-3051-46a4-8457-36c1e9202568.gif" height="60" alt="nodejs logo" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257497-6cb56230-0112-4045-8664-42f0a149c7ab.gif" height="60" alt="mongodb logo" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257480-1a7f0528-7681-432d-838d-692342c38290.gif" height="60" alt="python logo" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2a138981-e28a-4d76-92f7-e431034f77c3" height="60" alt="java logo" title="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/26c2e366-0d12-45e0-9189-9e8c47b520c1" height="60" alt="typescript logo" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud Platform"/>
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats and Activity:</h3>
+<h3 align="left">GitHub Stats:</h3>
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Ayush's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" />
-    </td>
-    <td align="center">
-        <a href="https://github.com/iam-ayushraj05">
-            <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" />
-        </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Ayush's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" />
+</p>
+
+<h3 align="left">GitHub Activity Graph:</h3>
+
+<p align="center">
+  <a href="https://github.com/iam-ayushraj05">
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
