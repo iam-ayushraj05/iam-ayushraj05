@@ -87,15 +87,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" height="170" alt="Streak" />
+<img src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" height="150" alt="Streak" />
 
 </div>
 
