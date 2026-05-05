@@ -1,21 +1,22 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h1 style="display: inline-block;">Hi 👋, I'm</h1>
-    </td>
-    <td align="right">
-      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=00FFFF&background=1E27DC00&random=false&width=435&lines=Ayush+Raj;Full+Stack+Developer" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" /> 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="left"> 
-  <a href="https://twitter.com/iam_ayushraj05" target="blank" style="text-decoration: none; border: none;"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" style="border: none;" /></a> 
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=00FFFF&background=1E27DC00&center=true&vCenter=true&random=false&width=435&lines=Ayush+Raj;Full+Stack+Developer" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" />
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/iam_ayushraj05" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" /></a>
+
+</div>
 
 ---
 
@@ -30,8 +31,10 @@
 <br clear="all"> 
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 Connect With Me
+
+<div align="center">
+
   <a href="https://instagram.com/im_ayushraj05" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="70" />
   </a>
@@ -44,10 +47,8 @@
   <a href="https://twitter.com/iam_ayushraj05" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter/X" height="70" />
   </a>
-</p>
-<br />
 
-<a href="#" style="text-decoration: none; border: none;"><img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&duration=2000&pause=500&color=E6EDF3&random=false&width=435&lines=Feel+free+to+connect+with+me+%F0%9F%98%8A+" alt="Typing SVG" style="border: none;" /></a>
+</div>
 
 ---
 
@@ -82,29 +83,50 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="300px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app?username=iam-ayushraj05&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
-</p>
+<div align="center">
 
-<h3 align="left">Daily Contribution Activity:</h3>
+<img src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="170"/>
 
-<p align="center">
-  <a href="https://github.com/iam-ayushraj05" style="text-decoration: none; border: none;">
-      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true" style="border: none;" />
-  </a>
-</p>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" height="170" alt="Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app?username=iam-ayushraj05&theme=radical&column=7&margin-w=5&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-ayushraj05&theme=tokyo-night&hide_border=true)](https://github.com/iam-ayushraj05)
+
+</div>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-ayushraj05/iam-ayushraj05/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-ayushraj05/iam-ayushraj05/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iam-ayushraj05/iam-ayushraj05/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iam-ayushraj05/iam-ayushraj05/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+
+</div>
 
 [![An image of @iamayushraj05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamayushraj05)](https://holopin.io/@iamayushraj05)
