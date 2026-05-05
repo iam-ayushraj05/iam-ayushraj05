@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=iam-ayushraj05&theme=radical&column=7&margin-w=5&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
+<img src="https://github-profile-trophy.vercel.app?username=iam-ayushraj05&theme=radical&column=8&margin-w=5&margin-h=15&no-bg=true&no-frame=true" alt="trophy graph" />
 
 </div>
 
