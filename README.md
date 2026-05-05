@@ -24,8 +24,8 @@
 - 🌱 I’m currently learning **BACKEND DEVELOPMENT**
 - 👯 I’m looking to collaborate on **OPEN-SOURCE PROJECTS**
 - 🤝 I’m looking for help with **DATA-STRUCTURE AND ALGORITHMS**
-- 👨‍💻 All of my projects are available at [Na](Na)
-- 📫 How to reach me **offayushraj1006@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/iam-ayushraj05](https://github.com/iam-ayushraj05)
+- 📫 How to reach me **[offayushraj1006@gmail.com](mailto:offayushraj1006@gmail.com)**
 
 <br clear="all"> 
 
@@ -54,29 +54,29 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="40" alt="React" title="React" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" height="40" alt="Express" title="Express" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="40" alt="Python" title="Python" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud Platform"/>
 </p>
 
