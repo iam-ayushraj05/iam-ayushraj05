@@ -85,9 +85,9 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="300px" />
-  <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="32%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="32%" />
 </p>
 
 ---
