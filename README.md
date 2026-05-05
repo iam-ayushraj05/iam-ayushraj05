@@ -1,22 +1,21 @@
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1 style="display: inline-block;">Hi 👋, I'm</h1>
+    </td>
+    <td align="right">
+      <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=00FFFF&background=1E27DC00&random=false&width=435&lines=Ayush+Raj;Full+Stack+Developer" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" /> 
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=00FFFF&background=1E27DC00&center=true&vCenter=true&random=false&width=435&lines=Ayush+Raj;Full+Stack+Developer" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=iam-ayushraj05&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ayushraj05" />
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/iam_ayushraj05" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" /></a>
-
-</div>
+<p align="left"> 
+  <a href="https://twitter.com/iam_ayushraj05" target="blank" style="text-decoration: none; border: none;"><img src="https://img.shields.io/twitter/follow/iam_ayushraj05?logo=twitter&style=for-the-badge" alt="iam_ayushraj05" style="border: none;" /></a> 
+</p>
 
 ---
 
@@ -83,15 +82,13 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">GitHub Stats:</h3>
 
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" height="150" alt="Streak" />
-
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=iam-ayushraj05&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" width="300px" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs?username=iam-ayushraj05&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Ayush's Top Languages" width="300px" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ayushraj05&theme=radical&hide_border=true" alt="Ayush's GitHub Streak" width="300px" />
+</p>
 
 ---
 
